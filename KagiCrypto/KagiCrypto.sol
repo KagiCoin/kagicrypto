@@ -21,7 +21,7 @@ $$ | \$$\$$$$$$$ \$$$$$$$ $$ |      \$$$$$$  $$ |     \$$$$$$$ $$$$$$$  |\$$$$  
 // ---------------------------------------------------------------------------- >>>>
 
 
-// Just Send 0 MATIC to this contract address
+// Simply by sending 0 MATIC to this contract address you will get KGC, If you send a number of MATIC we will consider it a donation
 // You will get free KGC automatically
 // Each wallet address can only claim once
 // The Top 250 Holders will be rewarded monthly for 5 years
