@@ -57,3 +57,6 @@ Symbol      : KGC
 
 Decimals    : 18
 
+
+![money](https://user-images.githubusercontent.com/122743766/215224094-8fbccf1d-0f50-4c7a-9bdf-22ab8bf83c03.gif)
+
