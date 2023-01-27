@@ -1,10 +1,13 @@
-# kagicrypto 
+![Kagi Crypto](https://user-images.githubusercontent.com/122743766/215224676-b9128490-799b-4919-8dcd-874565374cc9.png)
+
+KagiCrypto
+-
 
 Kagi Crypto was created to build a crypto community on the blockchain network based on the universal basic income (UBI) concept.
 
 Free distribution and income for everyone to have their own crypto from any network they want. Of course this encourages new enthusiasm for people who want to start getting into the world of crypto where people can claim free Kagi Crypto using their first wallet.
 
-**How to claim :**
+How to claim :
 -
 
 - You can send 0 coins to the contract address below according to the available blockchain network you own.
@@ -31,7 +34,7 @@ Contract Address : [0xA16231599e20ae7E7E6C13e17249f523fB117daE](https://moonscan
 
 ---------------------
 
-**Tokenomics & Distribution**
+Tokenomics & Distribution
 -
 **Kagi Crypto has 100 billion in supply :**
 
