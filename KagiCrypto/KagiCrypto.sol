@@ -283,4 +283,3 @@ uint256 public value = 500000e18;
         return token.transfer(owner, amount);
     }
 }
-
