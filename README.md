@@ -5,6 +5,7 @@ Kagi Crypto was created to build a crypto community on the blockchain network ba
 Free distribution and income for everyone to have their own crypto from any network they want. Of course this encourages new enthusiasm for people who want to start getting into the world of crypto where people can claim free Kagi Crypto using their first wallet.
 
 **How to claim :**
+-
 
 - You can send 0 coins to the contract address below according to the available blockchain network you own.
 
@@ -13,7 +14,6 @@ Free distribution and income for everyone to have their own crypto from any netw
 - Each wallet can only claim once and will fail if more than that.
 
 - The more people who claim it, the less the Kagi Crypto will print, so you can be the first to own it.
-
 
 -----------------------
 
@@ -31,11 +31,29 @@ Contract Address : [0xA16231599e20ae7E7E6C13e17249f523fB117daE](https://moonscan
 
 ---------------------
 
-Symbol      : KGC
+**Tokenomics & Distribution**
+-
+**Kagi Crypto has 100 billion in supply :**
+
+-> 70 billion for community claims
+
+-> The Top 250 Holders will be rewarded monthly for 5 years
+
+-> 5 billion for the campaign
+
+-> 5 billion for the exchange fee
+
+-> 5 billion for the team
+
+-> 5 billion for development
+
+Add Custom Wallet
+-
+
 
 Name        : Kagi Crypto
 
-Total supply: 100 billion
+Symbol      : KGC
 
 Decimals    : 18
 
