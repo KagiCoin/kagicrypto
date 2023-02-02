@@ -20,6 +20,9 @@ How to claim :
 
 -----------------------
 
+**BNB Binance Smart Chain**
+Contract Address : [0xA16231599e20ae7E7E6C13e17249f523fB117daE[(https://bscscan.com/address/0xa16231599e20ae7e7e6c13e17249f523fb117dae)
+
 
 **Matic Polygon**
 
@@ -28,7 +31,8 @@ Contract Address : [0xb155e00c952d41a81050aa280eb70d578a76bb33](https://polygons
 
 **MoonBeam**
 
-Contract Address : [0xA16231599e20ae7E7E6C13e17249f523fB117daE](https://moonscan.io/address/0xa16231599e20ae7e7e6c13e17249f523fb117dae)
+Contract Address : [0xeAa757bb163dB6bF84945Fec126d2383A02b0D5F](https://moonbeam.moonscan.io/token/0xeaa757bb163db6bf84945fec126d2383a02b0d5f)
+
 
 ( This will still be added in other networks )
 
