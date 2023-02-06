@@ -19,7 +19,18 @@ How to claim :
 
 - The more people who claim it, the less the Kagi Crypto will print, so you can be the first to own it.
 
------------------------
+Metamask Sample
+-
+
+
+![bnb](https://user-images.githubusercontent.com/122743766/217063284-b45abb95-58ea-4630-a925-b9c6d4a96176.png)
+
+![matic](https://user-images.githubusercontent.com/122743766/217063556-e9569ca7-a684-4181-a3e1-e64706e51d27.png)
+
+![Moonbeam](https://user-images.githubusercontent.com/122743766/217063677-fd79f95d-e02f-4cd0-8015-e4a9218e2353.png)
+
+
+------
 
 **BNB Binance Smart Chain**
 
