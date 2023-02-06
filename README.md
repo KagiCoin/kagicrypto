@@ -21,7 +21,7 @@ How to claim :
 -----------------------
 
 **BNB Binance Smart Chain**
-Contract Address : [0xA16231599e20ae7E7E6C13e17249f523fB117daE[(https://bscscan.com/address/0xa16231599e20ae7e7e6c13e17249f523fb117dae)
+Contract Address : [0xA16231599e20ae7E7E6C13e17249f523fB117daE](https://bscscan.com/address/0xa16231599e20ae7e7e6c13e17249f523fb117dae)
 
 
 **Matic Polygon**
@@ -42,17 +42,19 @@ Tokenomics & Distribution
 -
 **Kagi Crypto has 100 billion in supply :**
 
--> 70 billion for community claims
+-> 70% Community Claim.
 
--> The Top 250 Holders will be rewarded monthly for 5 years
+-> 10% Top 250 holder rewards.
 
--> 5 billion for the campaign
+->  5% Development.
 
--> 5 billion for the exchange fee
+->  5% Dex exchange liquidity.
 
--> 5 billion for the team
+->  5% Cex Exchange Listing Fee.
 
--> 5 billion for development
+->  3% Bounty and Airdrops.
+
+->  2% Team.
 
 Add Custom Wallet
 -
