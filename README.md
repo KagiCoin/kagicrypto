@@ -12,7 +12,7 @@ How to claim :
 
 - You can send 0 coins to the contract address below according to the available blockchain network you own.
 
-- You will receive your Crypto Kagi automatically and the smart contract will print your Crypto Kagi for you.
+- The smart contract will print and send your KGC instantly.
 
 - Each wallet can only claim once and will fail if more than that.
 
