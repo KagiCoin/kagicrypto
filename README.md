@@ -3,9 +3,10 @@
 KagiCrypto
 -
 
-Kagi Crypto was created to build a crypto community on the blockchain network based on the universal basic income (UBI) concept.
+Kagi Crypto was created to build a crypto community on a blockchain network based on the distribution concept of Xen Crypto.
 
-Free distribution and income for everyone to have their own crypto from any network they want. Of course this encourages new enthusiasm for people who want to start getting into the world of crypto where people can claim free Kagi Crypto using their first wallet.
+
+Free distribution for everyone to have their own crypto from whatever network they want. Of course this encourages new enthusiasm for people who want to start getting into the world of crypto where people can claim Kagi Crypto for free using their first wallet.
 
 How to claim :
 -
