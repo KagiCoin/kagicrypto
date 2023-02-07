@@ -63,9 +63,7 @@ Tokenomics & Distribution
 
 ->  5% Dex exchange liquidity.
 
-->  5% Cex Exchange Listing Fee.
-
-->  3% Bounty and Airdrops.
+->  5% Kagi Crypto NFT.
 
 ->  2% Team.
 
