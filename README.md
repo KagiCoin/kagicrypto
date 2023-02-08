@@ -65,6 +65,8 @@ Tokenomics & Distribution
 
 ->  5% Kagi Crypto NFT.
 
+->  3% Bounty and Airdrops.
+
 ->  2% Team.
 
 Add Custom Wallet
