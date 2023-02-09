@@ -6,7 +6,8 @@ KagiCrypto
 Kagi Crypto was created to build a crypto community on the blockchain network based on the concept of free distribution through smart contracts.
 
 
-Free distribution for everyone to have their own crypto from whatever network they want. Of course this encourages new enthusiasm for people who want to start getting into the world of crypto where people can claim Kagi Crypto for free using their first wallet.
+Kagi Crypto is free for everyone, anyone can claim it as their first cryptocurrency. This method will certainly encourage new enthusiasm for people who want to start getting into the crypto world where people can claim Kagi Crypto for free using their first wallet.
+
 
 How to claim :
 -
