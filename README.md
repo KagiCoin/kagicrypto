@@ -48,7 +48,7 @@ Contract Address : [0x27e3479c35B4A128c68C52663c34cB05eDb5A442](https://polygons
 
 **MoonBeam**
 
-Contract Address : [0x27e3479c35B4A128c68C52663c34cB05eDb5A442](https://moonbeam.moonscan.io/token/0x27e3479c35B4A128c68C52663c34cB05eDb5A442)
+Contract Address : [0x27e3479c35B4A128c68C52663c34cB05eDb5A442](https://moonbeam.moonscan.io/address/0x27e3479c35B4A128c68C52663c34cB05eDb5A442)
 
 
 ( This will still be added in other networks )
